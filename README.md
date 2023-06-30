@@ -15,7 +15,7 @@ https://pan.baidu.com/s/1TljZ8Q9NWO7d_YM3XqsDJQ?pwd=ed6l
 
 论文开源代码库：<https://github.com/jantrienes/ecir2019-qac>
 
-##训练开始
+## 开始训练
 
 
 
